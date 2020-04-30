@@ -1,2 +1,5 @@
 # hello-world
-My first repository in Github
+
+Hi everybody. 
+
+My name is Josue B. I'm mechanical engineer who want to learn programming.
