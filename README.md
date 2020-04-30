@@ -2,4 +2,4 @@
 
 Hi everybody. 
 
-My name is Josue B. I'm mechanical engineer who want to learn programming.
+My name is Josue B. I'm a mechanical engineer who wants to learn programming.
